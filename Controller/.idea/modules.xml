@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GIGUPnPController.iml" filepath="$PROJECT_DIR$/GIGUPnPController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/v7/appcompat/android-support-v7-appcompat.iml" filepath="$PROJECT_DIR$/support/v7/appcompat/android-support-v7-appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/v7/gridlayout/android-support-v7-gridlayout.iml" filepath="$PROJECT_DIR$/support/v7/gridlayout/android-support-v7-gridlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support/v7/mediarouter/android-support-v7-mediarouter.iml" filepath="$PROJECT_DIR$/support/v7/mediarouter/android-support-v7-mediarouter.iml" />
+    </modules>
+  </component>
+</project>
+

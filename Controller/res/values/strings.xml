@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GIGUPnPController</string>
+    <string name="tab1">Server</string>
+    <string name="tab2">Renderer</string>
+    <string name="album_art">yay</string>
+    <string name="device_list_empty">Het is leeg</string>
+    <string name="route_list_empty">Het is leeg</string>
+    <string name="shuffle">Het is leeg</string>
+    <string name="previous">Het is leeg</string>
+    <string name="next">Het is leeg</string>
+    <string name="play">Playing</string>
+    <string name="pause">Paused</string>
+    <string name="repeat">Het is leeg</string>
+</resources>

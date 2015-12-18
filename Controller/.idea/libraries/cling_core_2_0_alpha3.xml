@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="cling-core-2.0-alpha3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/cling-core-2.0-alpha3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/cling-support-2.0-alpha3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-ajp-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-annotations-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-client-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-continuation-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-deploy-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-http-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-io-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-jmx-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-jndi-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-overlay-deployer-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-plus-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-policy-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-rewrite-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-security-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-server-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-servlet-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-servlets-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-util-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-webapp-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-websocket-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-xml-8.1.15.v20140411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/seamless-http-1.0-alpha3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/seamless-util-1.0-alpha3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/seamless-xml-1.0-alpha3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/servlet-api-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/cling-core-2.0-alpha3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/cling-support-2.0-alpha3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

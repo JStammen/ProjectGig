@@ -1,0 +1,7 @@
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\ID3Lib\bin\Debug\Id3Lib.XML
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\ID3Lib\bin\Debug\Id3Lib.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\ID3Lib\bin\Debug\Id3Lib.pdb
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\ID3Lib\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\ID3Lib\obj\Debug\Id3Lib.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\ID3Lib\obj\Debug\Id3Lib.pdb
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\ID3Lib\obj\Debug\Id3Lib.csprojResolveAssemblyReference.cache

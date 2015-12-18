@@ -1,0 +1,10 @@
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\bin\Debug\UPnP.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\bin\Debug\UPnP.pdb
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\obj\Debug\OpenSource.UPnP.AutoUpdate.resources
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\obj\Debug\OpenSource.Utilities.ExceptionForm.resources
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\obj\Debug\OpenSource.Utilities.InstanceTracker.resources
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\obj\Debug\OpenSource.Utilities.InstanceTracker2.resources
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\obj\Debug\UPnP.csproj.GenerateResource.Cache
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\obj\Debug\UPnP.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\obj\Debug\UPnP.pdb
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\UPnP\obj\Debug\UPnP.csprojResolveAssemblyReference.cache

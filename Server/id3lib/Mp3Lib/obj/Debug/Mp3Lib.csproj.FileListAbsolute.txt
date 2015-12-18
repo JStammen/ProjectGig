@@ -1,0 +1,10 @@
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\bin\Debug\Mp3Lib.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\bin\Debug\Mp3Lib.pdb
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\bin\Debug\Mp3Lib.XML
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\bin\Debug\Id3Lib.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\bin\Debug\Id3Lib.pdb
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\bin\Debug\Id3Lib.xml
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\obj\Debug\Mp3Lib.csprojResolveAssemblyReference.cache
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\obj\Debug\Mp3Lib.dll
+D:\Verplaatste bibliotheken\Documents\GitHub\GigServer\id3lib\Mp3Lib\obj\Debug\Mp3Lib.pdb
